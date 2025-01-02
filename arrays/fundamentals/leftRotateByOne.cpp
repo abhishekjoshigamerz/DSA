@@ -29,7 +29,7 @@ int main()
 
     for (int num : nums)
     {
-        cout << num << " "; // Output the rotated array
+        cout << num << " ";
     }
 
     return 0;
